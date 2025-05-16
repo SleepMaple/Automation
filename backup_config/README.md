@@ -1,3 +1,3 @@
-fill in device.txt for the [school_name] [device_type] [IP_address]  
+Fill in device.txt for the [school_name] [device_type] [IP_address] form.  
 
-run the zyxel.py for backup the config automatically.  
+Run the zyxel.py for backup the config automatically.  
