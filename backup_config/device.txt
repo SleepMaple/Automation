@@ -1,0 +1,6 @@
+school_name1 ECS4120-28T 192.168.1.1
+school_name2 XS3800-28 192.168.1.2
+school_name3 XGS2210-52 192.168.1.3
+school_name4 XGS2210-28 192.168.1.4
+school_name5 XS3800-28 192.168.1.5
+school_name6 XGS2210-28HP 192.168.1.6
